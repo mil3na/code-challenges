@@ -12,11 +12,11 @@ I'm doing this for fun and there's no guarantee that these are the correct or mo
 
 Profile: [[link]](http://acm.timus.ru/author.aspx?id=66019)
 
-Total before: 42
+Total before: 40
 
 Old languages: Java, C++.
 
-Total rewritten: 5
+Total rewritten: 2
 
 New languages: Python.
 
