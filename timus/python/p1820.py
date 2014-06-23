@@ -1,6 +1,11 @@
 # Problem 1820. Ural Steaks
 # http://acm.timus.ru/problem.aspx?space=1&num=1820
 
-n, k = map(int,raw_input().split())
+import math
 
-print (n*2) / k
+n, k = map(float,raw_input().split())
+
+if n < k:
+	print "2"
+else:
+	print int(math.ceil((n*2) / k))
