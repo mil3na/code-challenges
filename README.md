@@ -28,10 +28,6 @@ Total before: 29
 
 Old languages: Java, C++.
 
-Total rewritten: 0
-
-New languages: -
-
 
 ##Coderbyte
 
