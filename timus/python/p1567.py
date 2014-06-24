@@ -1,5 +1,5 @@
 # Problem 1567. SMS-spam
-# http://acm.timus.ru/problem.aspx?space=1&num=1313
+# http://acm.timus.ru/problem.aspx?space=1&num=1567
 
 slogan = raw_input()
 

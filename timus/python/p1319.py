@@ -1,5 +1,5 @@
 # Problem 1319. Hotel
-# http://acm.timus.ru/problem.aspx?space=1&num=1313
+# http://acm.timus.ru/problem.aspx?space=1&num=1319
 
 n = int(raw_input())
 
