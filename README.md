@@ -16,7 +16,7 @@ Total before: 40
 
 Old languages: Java, C++.
 
-Total rewritten: 32
+Total rewritten: 40
 
 New languages: Python.
 
