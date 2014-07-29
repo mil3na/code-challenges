@@ -4,7 +4,7 @@
 #Rewritten, apparently working, but gives RuntimeError on test #7
 
 class Node(object):
-    content = None
+    content = 0
     left = None
     right = None
 
